@@ -14,7 +14,7 @@ public interface UserService extends IService<User> {
     * @Param: [user]
     * @return: java.lang.Boolean
     */
-    public Boolean exits(User user);
+//    public Boolean exits(User user);
 
     /**
      * 登入
